@@ -20,8 +20,8 @@ const Hero = () => {
             Un curioso que crea contenido sobre programación y tecnología
           </p>
           <p className="mt-8 text-sm text-gray-400 dark:text-gray-400">
-            Temas: React, Node Js, .NET,creación de aplicaciones productividad, ejercicios y algunas
-            otras cosas milenarias.
+            Temas: JavaScript, React, Node Js, .NET, creación de aplicaciones, criptoCositas,
+            productividad, ejercicios y algunas otras cosas milenarias.
           </p>
           <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/codewithyei">
             <a
