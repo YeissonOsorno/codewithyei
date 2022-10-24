@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'Un blog donde podrás aprender sobre programación, tecnologia y muchas cosas mas',
   language: 'es-co',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://codewithyei.vercel.app',
+  siteUrl: 'https://codewithyei.com',
   siteRepo: 'https://github.com/YeissonOsorno/codewithyei',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
